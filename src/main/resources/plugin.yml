@@ -1,0 +1,6 @@
+name: BackPackManager
+version: '1.0'
+main: com.efetamturk.backPackManager.BackPackManager
+api-version: '1.21'
+commands:
+  backpack:
